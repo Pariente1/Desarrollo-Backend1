@@ -1,0 +1,16 @@
+Frontent = Clientes
+Que clientes podemos tener?
+
+1. Navegadores
+[HTML, CSS, JS]
+
+2. Movil
+[IOS, Android, CrossPlatforms]
+
+3. IOT. (Internet of Things)
+
+
+Backend = Server
+
+FullStack 
+Esto es una combinacion entre FrontEnd y Backend Developer.
