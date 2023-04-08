@@ -1,0 +1,29 @@
+1xx Mensaje informativo
+
+2xx Exito
+
+200 ok
+201 created
+202 accepted
+204 No content
+
+3xx Redirection
+
+300 Multiple choice
+301 Moved permanently
+302 Found
+304 Not modified
+
+4xx Client Error
+
+400 Bad request
+401 Unauthorized
+403 Forbidden
+404 Not Found
+
+5xx Server Error
+
+500 internal server Error
+501 Not Implemented
+502 Bad Gateway
+503 Service Unavailable

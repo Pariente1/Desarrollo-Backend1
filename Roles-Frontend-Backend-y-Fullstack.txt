@@ -11,6 +11,7 @@ Que clientes podemos tener?
 
 
 Backend = Server
+[xml, json]
 
 FullStack 
 Esto es una combinacion entre FrontEnd y Backend Developer.
